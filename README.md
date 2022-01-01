@@ -1,7 +1,7 @@
 # Paul Doucet datascience portfolio
 
 ## Machine Learning projects
-- logistic regression : NBA rookie classification
+- Logistic regression : [NBA rookie classification](https://github.com/pauldoucet/nba-rookie-classification)
 
 ## ArcGis Map projects
-- time space cubes & hotspot analysis : Californian Wildfires hotspots
+- Time space cubes & hotspot analysis : [Californian Wildfires hotspots](https://github.com/pauldoucet/california-wildfires)

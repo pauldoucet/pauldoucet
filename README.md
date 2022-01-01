@@ -1,5 +1,3 @@
-# Paul Doucet datascience portfolio
-
 ## Machine Learning projects
 - Logistic regression : [NBA rookie classification](https://github.com/pauldoucet/nba-rookie-classification)
 

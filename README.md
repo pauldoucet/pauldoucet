@@ -4,7 +4,5 @@
 - Linear Regression (Spark, MLlib, AWS) : [Flights delay prediction](https://github.com/pauldoucet/flight-delay-prediction/blob/main/flight-delay-prediction.ipynb)
 
 ## Language Processing projects
+- Deep-neural network (Keras/Tensorflow, Scikit-Learn) : [Email spam classification](https://github.com/pauldoucet/email-spam-classification/blob/main/email-spam-classification.ipynb)
 - Sentiment Analysis (TextBlob) : [Companies Sentiment Analysis on Twitter](https://github.com/pauldoucet/twitter-companies-sentiment/blob/main/twitter-companies-sentiment.ipynb)
-
-## ArcGis Map projects
-- Time space cubes & hotspot analysis : [Californian Wildfires hotspots](https://github.com/pauldoucet/california-wildfires/blob/main/Untitled.ipynb)

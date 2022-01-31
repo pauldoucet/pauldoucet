@@ -2,7 +2,7 @@
 - Convolutional Neural Network (PyTorch) : [Road signs classification](https://github.com/pauldoucet/road-sign-classification/blob/main/Road%20signs%20classification.ipynb)
 
 ## Cloud computing / Spark, AWS projects
-- Linear Regression (Spark, MLlib, AWS) : [Flights delay prediction](https://github.com/pauldoucet/flight-delay-prediction/blob/main/flight-delay-prediction.ipynb)
+- Linear Regression (Spark, MLlib, AWS EMR & S3) : [Flights delay prediction](https://github.com/pauldoucet/flight-delay-prediction/blob/main/flight-delay-prediction.ipynb)
 
 ## Language Processing projects
 - Deep-neural network (Keras/Tensorflow, Scikit-Learn) : [Email spam classification](https://github.com/pauldoucet/email-spam-classification/blob/main/email-spam-classification.ipynb)

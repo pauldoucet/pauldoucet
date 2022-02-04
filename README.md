@@ -9,4 +9,4 @@
 - Sentiment Analysis (TextBlob) : [Companies Sentiment Analysis on Twitter](https://github.com/pauldoucet/twitter-companies-sentiment/blob/main/twitter-companies-sentiment.ipynb)
 
 ## Sport analysis projects
-- Logistic regression (Scikit-Learn) : [NBA rookie classification](https://github.com/pauldoucet/nba-rookie-classification/blob/master/NBA%20Rookie%20Logistic%20Regression.ipynb)
+- Logistic regression (Scikit-Learn) : [NBA rookie classification](https://github.com/pauldoucet/nba-rookie-classification/blob/master/NBA%20Rookie%20Logistic%20Regression.ipynb) 

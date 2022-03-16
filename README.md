@@ -11,4 +11,5 @@
 ## Sport analysis projects
 - Logistic regression (Scikit-Learn) : [NBA rookie classification](https://github.com/pauldoucet/nba-rookie-classification/blob/master/NBA%20Rookie%20Logistic%20Regression.ipynb)  
   
- 
+## Java projects
+- [Rigel (Java, JavaFx)](https://github.com/pauldoucet/rigel)

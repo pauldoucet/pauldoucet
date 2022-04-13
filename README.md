@@ -1,3 +1,6 @@
+## Web scraping projects
+- Website for tracking prices on a ticket-reseller platform (Python, AWS EC2, Django, Selenium, CSS/HTML/Javascript)[Tickpick scraper](https://github.com/pauldoucet/tickpick-scrapper)
+
 ## Computer vision projects
 - Convolutional Neural Network (PyTorch) : [Road signs classification](https://github.com/pauldoucet/road-sign-classification/blob/main/Road%20signs%20classification.ipynb)
 
